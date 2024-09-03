@@ -114,7 +114,6 @@ Step 3: Use Remote Desktop to connect to Windows 10 Virtual Machine (VM1)
 
 ![image](https://github.com/user-attachments/assets/f0098553-6627-4ebd-9ae7-70d1aca5f176)
 
-![image](https://github.com/user-attachments/assets/9d6ce97d-d8e8-4177-873b-4f2cf7c9e772)
 
 ![image](https://github.com/user-attachments/assets/8d331686-816c-42b0-bd60-32764354ec26)
 
