@@ -38,7 +38,8 @@ Step 1: Create a Resource Group in Azure
    - Enter your Resource Group  name, and select whichever Region that works for you
    - Click 'Review + Create' -> then click 'Create'
 
-![image](https://github.com/user-attachments/assets/002358c1-2f1e-4dcf-8725-cbab1e39f12a)
+![image](https://github.com/user-attachments/assets/17c3857c-c58b-4b29-8041-18a5d0627a35)
+
 
 
 
@@ -69,13 +70,13 @@ Step 2: Create two Virtual Machines in Azure
    - Click 'Review + Create' -> then click 'Create'
 
 
-![image](https://github.com/user-attachments/assets/5c33935a-f593-4a3f-b6aa-fc0448227fe7)
+![image](https://github.com/user-attachments/assets/69401e34-8e20-463b-92b5-114e271f3fd8)
 
-![image](https://github.com/user-attachments/assets/0f9bd7d6-d805-4d3b-8d86-ab903c94a7bc)
+![image](https://github.com/user-attachments/assets/8725502f-15de-45b7-bcb0-f226d1f35d38)
 
 ![image](https://github.com/user-attachments/assets/7e2837b7-47d7-4373-98f2-29c7bd2a8d92)
 
-![image](https://github.com/user-attachments/assets/8d1c0d29-d87e-4f47-aed9-33362c2e5885)
+![image](https://github.com/user-attachments/assets/6137abdb-ee8f-4cc2-9550-474fc4466166)
 
 ![image](https://github.com/user-attachments/assets/743845d9-0d82-4fc4-a618-ebabb1379e40)
 
@@ -110,7 +111,7 @@ Step 3: Use Remote Desktop to connect to Windows 10 Virtual Machine (VM1)
 
 
 
-![image](https://github.com/user-attachments/assets/fad65b70-f892-4d97-ba0c-095dbf663cb0)
+![image](https://github.com/user-attachments/assets/3b653148-8170-4728-bfe2-8d072403372f)
 
 
 ![image](https://github.com/user-attachments/assets/8d331686-816c-42b0-bd60-32764354ec26)
@@ -127,7 +128,7 @@ Step 3: Use Remote Desktop to connect to Windows 10 Virtual Machine (VM1)
 
 ![image](https://github.com/user-attachments/assets/6cdf08a0-86c3-4a3f-a707-e38321dc4b13)
 
-![image](https://github.com/user-attachments/assets/bb13f451-d146-4afd-b79f-4100ea6c50b5)
+![image](https://github.com/user-attachments/assets/4c098c8b-ebfe-4d06-90e8-b2f83561c589)
 
 ![image](https://github.com/user-attachments/assets/b3c2f0a7-5437-47ad-8644-bf4e33f2cf46)
 
@@ -174,15 +175,15 @@ Step 4: Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubunt
 
 ![image](https://github.com/user-attachments/assets/47f19420-dd89-4d73-9aa4-bfd946649a4a)
 
-![image](https://github.com/user-attachments/assets/f106f1d0-d1b6-4ec6-a498-1a99dba12111)
+![image](https://github.com/user-attachments/assets/dad88931-5fa3-4cb2-a7e1-bb1c299164cd)
 
-![image](https://github.com/user-attachments/assets/c7421000-a68a-4cfc-917e-4143e757b3a2)
+![image](https://github.com/user-attachments/assets/1736b45f-29cb-4f2b-a197-f0ae530b0206)
 
-![image](https://github.com/user-attachments/assets/c2effa5e-53f8-4e76-9074-be123f658141)
+![image](https://github.com/user-attachments/assets/8fa9d82b-8432-444e-a5b4-35c656b4709e)
 
 ![image](https://github.com/user-attachments/assets/2d3f4de4-b444-4a36-b7b5-da8d6d44225b)
 
-![image](https://github.com/user-attachments/assets/5acc3f10-ddb8-46cc-b3df-dfc09e53c8d7)
+![image](https://github.com/user-attachments/assets/56ef6737-8c1b-40ff-9c1a-7c9f5625a795)
 
 
 ![image](https://github.com/user-attachments/assets/10735a5b-363d-4c7f-ac58-2410ef198c00)
